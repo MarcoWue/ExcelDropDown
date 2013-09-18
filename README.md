@@ -28,7 +28,7 @@ These steps are only required once per workbook.
       - Put the following code into *ThisWorkbook*
         (replace occurrences of *Table1* with desired table name)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-          Dim WithEvents Table1DropDown As New ExcelDropDown
+          Dim WithEvents Table1DropDown As ExcelDropDown
 
           Private Sub Workbook_Open()
               Set Table1DropDown = New ExcelDropDown
