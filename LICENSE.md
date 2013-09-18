@@ -1,3 +1,6 @@
+License
+=======
+
 Copyright (c) 2013 by MarcoWue
 
 This work is made available under the terms of the
