@@ -9,6 +9,7 @@ Usage
 
 Open the demo *.xlsm* file to see how ExcelDropDown works.
 
+
 **Note:** ExcelDropDown needs activated macros to work!
 
  Do the following to use ExcelDropDown in your Excel workbook.
