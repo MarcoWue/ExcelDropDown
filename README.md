@@ -53,4 +53,4 @@ Open the demo *.xlsm* file to see how ExcelDropDown works.
        - Save and reopen the workbook.
 
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/MarcoWue/exceldropdown/trend.png)]
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/MarcoWue/exceldropdown/trend.png)](https://bitdeli.com/free "Stats")
