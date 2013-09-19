@@ -52,7 +52,7 @@ Open the demo *.xlsm* file to see how ExcelDropDown works.
          separate ExcelDropDown object for each sheet like shown above.
        - Save and reopen the workbook.
 
-
-
-
+<br/> 
+<br/> 
+<br/> 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/MarcoWue/exceldropdown/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
